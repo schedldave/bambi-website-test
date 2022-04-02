@@ -1,5 +1,5 @@
 main:
-  - title: "Project"
+  - title: "Projekt"
     url: /project/
   - title: "News"
     url: /posts/
@@ -7,5 +7,5 @@ main:
   #  url: /categories/
   #- title: "Tags"
   #  url: /tags/
-  - title: "Team"
+  - title: "Kontakt"
     url: /about/
